@@ -1,2 +1,2 @@
-*When a customer arrives at the ENTRANCE, the USER will check car sticker and record data*
+When a customer arrives at the ENTRANCE, the USER will check car sticker and record data
 I suppose that combobox would work here because the user (specifically staff) fill in the driver's information for giving the ticket to the customer.
